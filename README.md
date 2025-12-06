@@ -20,16 +20,16 @@ GenAI based solutions.
 ---
 
 ## 🛠 **Skills**
-#### Programming : Python, SQL
-#### Technology : Artificial Intelligence, Machine learning, Data science, Statistics, Deep learning, NLP, GenAI (Generative AI), LLM (Large Language models), Predictive Modeling, Exploratory Data Analysis (EDA), ETL, Forecasting, Data Wrangling, Feature Engineering, Data Cleaning Preprocessing, Web Scraping, Power BI, Tableau, Docker
-#### Generative AI: LangChain, LangGraph, VectorDB, GraphDB, CrewAI, MCP, LangSmith
-#### Data Manipulation and Preprocessing : Data Wrangling, Feature Engineering, Data Integration, Data Cleaning Preprocessing, Web Scraping
-#### Framework, Cloud and MLOps: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, AWS (S3, EC2, Lambda, ECR, CodeDeploy, IAM), MLflow, Git, CI/CD Pipelines.
+- **Programming** : Python, SQL
+- **Technology** : Artificial Intelligence, Machine learning, Data science, Statistics, Deep learning, NLP, GenAI (Generative AI), LLM (Large Language models), Predictive Modeling, Exploratory Data Analysis (EDA), ETL, Forecasting, Data Wrangling, Feature Engineering, Data Cleaning Preprocessing, Web Scraping, Power BI, Tableau, Docker
+- **Generative AI**: LangChain, LangGraph, VectorDB, GraphDB, CrewAI, MCP, LangSmith
+- **Data Manipulation and Preprocessing** : Data Wrangling, Feature Engineering, Data Integration, Data Cleaning Preprocessing, Web Scraping
+- **Framework, Cloud and MLOps** : Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, AWS (S3, EC2, Lambda, ECR, CodeDeploy, IAM), MLflow, Git, CI/CD Pipelines.
 
 ---
 
 ## 📈 **Experience Highlights**
-### **AI/ML Engineer** | TCS |
+### **AI/ML Engineer** | TATA CONSULTANCY SERVICES LTD |
 
 Client – Rabobank
 #### Key Project:
@@ -46,9 +46,11 @@ Client – Rabobank
    - Conducted EDA using **Power BI** and implemented regression techniques with **TPOT**.  
    - Predicted customers' **Monthly Average Balance** to assist RMs in reactivating debit card users.  
 
-4. **ICICI OBOF Trade and Trade Rules**:  
-   - Developed models for identifying customers using **Jaro-Winkler** and **Levenshtein distance**.  
-   - Utilized **XGBoost** via **PyCaret**, achieving the best classification results. 
+4. **TCS Banks Application Engineer**:  
+   - Monitored and managed critical batch and job runs ensuring smooth execution and minimal downtime.  
+   - Conducted quantitative analysis on capital market data using SQL and Python (Pandas/NumPy), generating actionable insights that optimized wealth management strategies. Automated reports building, reduced manual effort up to 90%.
+   - Developed a predictive model using neural network to estimate completion time of TCS BaNCS application batches and job runs, enabling proactive measures to avoid potential delays or failures in stock market settlements and high-value transactions.
+   - Engineered a hybrid recommendation system for financial products, leveraged explicit data and implicit data to enhance recommendation accuracy achieving an overall F1-score of 87%.
 ---
 
 ## 📂 **Projects**
