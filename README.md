@@ -1,72 +1,48 @@
 # 👋 Hi, I'm Rishav Kumar
 
-🚀 **Data Scientist | AI Engineer | Financial Market Trader**  
+🚀 **AI/ML Engineer | TATA CONSULTANCY SERVICES LTD**  
 
 ● With 3+ years of experience in data science with expertise in Python, PySpark, SQL, and Azure solutions like 
 Databricks and Data Factory, ML Studio, Langchain, LangGraph, CrewAI.
-● Developed and deployed GPT-based RAG accelerator for Microsoft and 3 key data science use cases for ICICI 
+● Developed and deployed GPT-based RAG accelerator for Rabobank and 3 key data science use cases for Rabobank 
 Bank, driving business impact. Implemented an end-to-end ML lifecycle platform leveraging AgenticAI.
 ● Proficient in feature engineering, data transformation, and visualization to enhance model performance and building 
 GenAI based solutions.
-● Certified in Azure Data Scientist Associate (DP-100) and Azure AI Engineer Associate (AI-102).
+
 
 ---
 
 ## 🌟 **About Me**
-- 📍 Based in **Mumbai, India**.
-- 💼 Currently working as an **Data Scientist at EXL**
+- 📍 Based in **New Delhi, India**.
+- 💼 Currently working as an **AI/ML Engineer at TCS**
 - 🌱 Continuously learning new tools and techniques in **AI, Machine Learning, Big Data, Cloud Platforms, and Financial Markets**.
 
 ---
 
 ## 🛠 **Skills**
-#### Programming : Python, SQL, PySpark
-#### Technology : Artificial Intelligence, Machine learning, Data science, Statistics, Deep learning, NLP, GenAI(GenerativeAI), LLM (Large Language models), Predictive Modeling,RAG, Exploratory Data Analysis (EDA), Azure Cloud, Azure ML Studio, Databricks, Power BI, ADF(Azure Data Factory),AzureFacbric,MS-Excel, GitHub/Git, ETL, VectorDB
+#### Programming : Python, SQL
+#### Technology : Artificial Intelligence, Machine learning, Data science, Statistics, Deep learning, NLP, GenAI (Generative AI), LLM (Large Language models), Predictive Modeling, Exploratory Data Analysis (EDA), ETL, Forecasting, Data Wrangling, Feature Engineering, Data Cleaning Preprocessing, Web Scraping, Power BI, Tableau, Docker
+#### Generative AI: LangChain, LangGraph, VectorDB, GraphDB, CrewAI, MCP, LangSmith
 #### Data Manipulation and Preprocessing : Data Wrangling, Feature Engineering, Data Integration, Data Cleaning Preprocessing, Web Scraping
-#### ML Frameworks : Pandas, Numpy, Scikit-Learn, MLFlow, Pytorch, HuggingFace, LangChain, Tensorflow
+#### Framework, Cloud and MLOps: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, AWS (S3, EC2, Lambda, ECR, CodeDeploy, IAM), MLflow, Git, CI/CD Pipelines.
 
 ---
 
 ## 📈 **Experience Highlights**
-### **AI Consultant** | EXL |
+### **AI/ML Engineer** | TCS |
 
-MIDAS(End-to-End ML Lifecycle with AI Agents):
+Client – Rabobank
 #### Key Project:
-- Designed and implemented an end-to-end ML lifecycle system leveraging AI agents to automate data ingestion, 
-preprocessing, model training, deployment, and monitoring.
-- Built and orchestrated AI agents using LangGraph for workflow management and LangChain for multi-step reasoning, 
-retrieval, and tool integration. Integrated LangSmith for observability, tracing, and debugging of agent workflows.
-- Leveraged Azure Storage Containers for scalable and efficient data management, Implemented vector search using 
-Azure AI Search (Vector DB) to enable RAG-based document retrieval and semantic search.
-- Deployed LLMs on Azure AI Foundry with seamless integration into the application stack.
-- Developed REST APIs using FastAPI, ensuring scalability, modularity, and integration with front-end systems
-- Built the front-end in TypeScript, delivering a clean and interactive user experience. 
-
-
-### **Data Scientist/ AI Engineer** | LTIMindtree |
-
-Client – MICROSOFT
-#### Key Project:
-1. GPT-Based RAG Accelator : 
-   - GPT-Based Retrieval-Augmented Generation (RAG) Accelerator
-   - Designed and deployed a RAG accelerator to enable conversational AI on custom datasets.
-   - Integrated Microsoft Azure OpenAI Services to incorporate GPT models for seamless natural language interactions.
-   - Implemented semantic search and data retrieval using Azure AI Search.
-   - Leveraged Azure Storage Containers for scalable and efficient data management, used CosmosDB for vector store.
-   - Developed and deployed APIs using Azure Function API. 
-
-Client: ICICI Bank  
-#### Key Projects:
-1. **ICICI One Bank One Flow**:  
+1. **Rabobank One Bank One Flow**:  
    - Developed an **end-to-end pipeline** using **Roberta NER transformers** and **Fasttext** for intent classification.  
    - Achieved **90% accuracy** in customer name matching using **Levenshtein distance** and **RapidFuzz** NLP.  
-   - Created an RFM score model, helping ICICI Bank generate **₹7 Cr revenue** in 2023.
+   - Created an RFM score model, helping Rabobank Bank generate **₹7 Cr revenue** in 2023.
 
-2. **ICICI Mortgage**:  
+2. **Rabobank Mortgage**:  
    - Built a **Decision Tree** model for home loan propensity scoring with **LIME** and **SHAP** for explainability.  
    - Applied **K-Means Clustering** to segment mortgage customers into **Elite, Loyal, and Ace** categories.  
 
-3. **Other Channel Movement Prevention**:  
+3. **Rabobank Other Channel Movement Prevention**:  
    - Conducted EDA using **Power BI** and implemented regression techniques with **TPOT**.  
    - Predicted customers' **Monthly Average Balance** to assist RMs in reactivating debit card users.  
 
@@ -76,38 +52,41 @@ Client: ICICI Bank
 ---
 
 ## 📂 **Projects**
-- [**Crypto Signals with LSTM**](https://github.com/IncognitoOmi/Crypto_Signals_with_LSTM): Bitcoin price prediction using LSTM Neural Networks.  
-- [**Web Scraping TimesJobs**](https://github.com/IncognitoOmi/Web_Scraping_TimesJobs): Automated job listing extraction using **BeautifulSoup** and **Selenium**.  
-- [**University Shortlisting System**](https://github.com/IncognitoOmi/University_Shortlisting_and_Prediction_System/tree/main): Admission likelihood prediction using **Linear Regression**.  
-- [**Fashion E-commerce Success Prediction**](https://github.com/IncognitoOmi/Fashion_Ecommerce_Product_Success_Prediction): Predicting product success using PyCaret in an object-oriented approach.  
-- [**FaceSwapper**](https://github.com/IncognitoOmi/Face_swapper): Fun project leveraging face-swapping techniques.
+- [**Advanced RAG Chatbot with Hybrid Search**](https://github.com/rishavkumar1951): Chatbot uses local documents to answer prompt.
+- [**Enterprise Resume Optimization Platform**](https://github.com/rishavkumar1951): Automated job apply using RAG.
+- [**Crypto Signals with LSTM**](https://github.com/rishavkumar1951/Crypto_Signals_with_LSTM): Bitcoin price prediction using LSTM Neural Networks.  
+- [**University Shortlisting System**](https://github.com/rishavkumar1951/University_Shortlisting_and_Prediction_System): Admission likelihood prediction using **Linear Regression**.  
+- [**SMC Trading bot with Gemini**](https://github.com/rishavkumar1951/Gemini-SMC-Trading-Bot): Buy/Sell signals, entry, stop loss, and a detailed rationale.  
 
 ---
 
 ## 🏆 **Certifications**
-- Microsoft Certified: **AI Engineer Associate Associate (AI-102)**.
-- Microsoft Certified: **Data Scientist Associate (DP-100)**.
-- Microsoft Certified: **Azure AI Fundamentals (AI-900)**.  
-- Databricks **Lakehouse Fundamentals**.  
-- **Instructor-Led Training** on DataBricks.  
+- Agentic AI Bootcamp (LangGraph, Langchain)
+- Building Gen AI App 12+ Hands-on Projects with Gemini Pro
+- Complete Generative AI Course with Langchain and Huggingface  
+- Data Science Masters Certification Program
+- The Complete Python Bootcamp from Zero to Hero in Python
+- Mastering Data Structures and Algorithms
 
 ---
 
 ## 🎓 **Education**
-- **Bachelor of Engineering in Information Technology**  
-  University of Mumbai (2018–2022) | **CGPA**: 8/10  
+- **Bachelor of Technology in Computer Science Engineering**  
+  A.P.J Abdul Kalam Technical University  (2018–2022) | **CGPA**: 8.1/10  
 
 ---
 
 ## 💼 **Achievements**
-- 🏅 **2nd Prize in IBM Watson Hackathon** (LTI Global).
+- 🏅 **Secured All India Rank 48 in TCS CodeVita Season 10 and received FTE offer from TCS Digital.** (TCS).
+- 🏅 **Runner-up in the TCS AI Innovation Hackathon 2023, recognized for developing an innovative AI-based solution.** (TCS).
+- 🏅 **Honored twice as Employee of the Quarter for exceptional performance and contribution.** (TCS).
 
 ---
 
 ## 📫 **Connect with Me**
-- 📧 Email: [omkarshirke1000@gmail.com](mailto:omkarshirke1000@gmail.com)  
-- 💼 LinkedIn: [Omkar Shirke](https://www.linkedin.com/in/omkar-shirke-389303199)  
-- 🐙 GitHub: [IncognitoOmi](https://github.com/IncognitoOmi)
+- 📧 Email: [rishav.dgi@gmail.com](mailto:rishav.dgi@gmail.com)  
+- 💼 LinkedIn: [Rishav Kumar](https://www.linkedin.com/in/rishav321/)  
+- 🐙 GitHub: [rishavkumar1951](https://github.com/rishavkumar1951)
 
 ---
 
