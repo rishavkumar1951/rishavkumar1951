@@ -4,8 +4,10 @@
 
 ● With 3+ years of experience in data science with expertise in Python, PySpark, SQL, and Azure solutions like 
 Databricks and Data Factory, ML Studio, Langchain, LangGraph, CrewAI.
+
 ● Developed and deployed GPT-based RAG accelerator for Rabobank and 3 key data science use cases for Rabobank 
 Bank, driving business impact. Implemented an end-to-end ML lifecycle platform leveraging AgenticAI.
+
 ● Proficient in feature engineering, data transformation, and visualization to enhance model performance and building 
 GenAI based solutions.
 
@@ -57,7 +59,7 @@ Client – Rabobank
 - [**Advanced RAG Chatbot with Hybrid Search**](https://github.com/rishavkumar1951): Chatbot uses local documents to answer prompt.
 - [**Enterprise Resume Optimization Platform**](https://github.com/rishavkumar1951): Automated job apply using RAG.
 - [**Crypto Signals with LSTM**](https://github.com/rishavkumar1951/Crypto_Signals_with_LSTM): Bitcoin price prediction using LSTM Neural Networks.  
-- [**University Shortlisting System**](https://github.com/rishavkumar1951/University_Shortlisting_and_Prediction_System): Admission likelihood prediction using **Linear Regression**.  
+- [**University Shortlisting System**](https://github.com/rishavkumar1951/University_Shortlisting_and_Prediction_System): Admission likelihood prediction using Linear Regression.  
 - [**SMC Trading bot with Gemini**](https://github.com/rishavkumar1951/Gemini-SMC-Trading-Bot): Buy/Sell signals, entry, stop loss, and a detailed rationale.  
 
 ---
