@@ -60,9 +60,9 @@ Client – Rabobank
 ---
 
 ## 📂 **Projects**
-- [**Advanced RAG Chatbot with Hybrid Search**]: Enhanced Retrieval System: Implemented hybrid search combining dense vector embeddings with sparse lexical search, improving retrieval accuracy by 35% over baseline RAG.
-- [**Multi-Agent Research Assistant**]: Specialized Agent Architecture: Designed 4 autonomous agents (Researcher, Analyst, Writer, Reviewer) with distinct roles and collaboration protocols.
-- [**Real-time ETL Data Pipeline**]: Built a serverless ETL pipeline using AWS Lambda and S3 for scalable data processing.
+- [**Advanced RAG Chatbot with Hybrid Search**](https://github.com/rishavkumar1951): Enhanced Retrieval System: Implemented hybrid search combining dense vector embeddings with sparse lexical search, improving retrieval accuracy by 35% over baseline RAG.
+- [**Multi-Agent Research Assistant**](https://github.com/rishavkumar1951): Specialized Agent Architecture: Designed 4 autonomous agents (Researcher, Analyst, Writer, Reviewer) with distinct roles and collaboration protocols.
+- [**Real-time ETL Data Pipeline**](https://github.com/rishavkumar1951): Built a serverless ETL pipeline using AWS Lambda and S3 for scalable data processing.
 - [**University Shortlisting System**](https://github.com/rishavkumar1951/University_Shortlisting_and_Prediction_System): Admission likelihood prediction using Linear Regression.  
 - [**SMC Trading bot with Gemini**](https://github.com/rishavkumar1951/Gemini-SMC-Trading-Bot): Buy/Sell signals, entry, stop loss, and a detailed rationale.
 - [**Crypto Signals with LSTM**](https://github.com/rishavkumar1951/Crypto_Signals_with_LSTM): Engineered a sequential deep learning model (LSTM) to forecast BTC/USD price movements with high precision.
