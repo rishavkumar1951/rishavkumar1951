@@ -1,66 +1,71 @@
 # 👋 Hi, I'm Rishav Kumar
 
-🚀 **AI/ML Engineer | TATA CONSULTANCY SERVICES LTD**  
+🚀 **Software Engineer | 4 Years at TATA CONSULTANCY SERVICES LTD**  
 
-● With 3+ years of experience in data science with expertise in Python, PySpark, SQL, and Azure solutions like 
-Databricks and Data Factory, ML Studio, Langchain, LangGraph, CrewAI.
+● With 4 years of experience in data science with expertise in Python, PySpark, SQL, and Azure solutions like 
+Databricks and Data Factory, Langchain, LangGraph, CrewAI.
 
-● Developed and deployed GPT-based RAG accelerator for Rabobank and 3 key data science use cases for Rabobank 
-Bank, driving business impact. Implemented an end-to-end ML lifecycle platform leveraging AgenticAI.
+● Developed 3 key data science use cases for Rabobank Bank, driving business impact. Implemented an end-to-end ML lifecycle platform leveraging AgenticAI.
 
-● Proficient in feature engineering, data transformation, and visualization to enhance model performance and building 
-GenAI based solutions.
+● Proficient in Big Data Engineering Tools, feature engineering, data transformation, and visualization to enhance model performance and build GenAI-based solutions.
 
 
 ---
 
 ## 🌟 **About Me**
 - 📍 Based in **New Delhi, India**.
-- 💼 Currently working as an **AI/ML Engineer at TCS**
-- 🌱 Continuously learning new tools and techniques in **AI, Machine Learning, Big Data, Cloud Platforms, and Financial Markets**.
+- 💼 Currently working as an **Software Engineer at TCS**
+- 🌱 Continuously learning new tools and techniques in **Data Science, AI, Machine Learning, Big Data, Cloud Platforms, and Financial Markets**.
 
 ---
 
 ## 🛠 **Skills**
-- **Programming** : Python, SQL
-- **Technology** : Artificial Intelligence, Machine learning, Data science, Statistics, Deep learning, NLP, GenAI (Generative AI), LLM (Large Language models), Predictive Modeling, Exploratory Data Analysis (EDA), ETL, Forecasting, Data Wrangling, Feature Engineering, Data Cleaning Preprocessing, Web Scraping, Power BI, Tableau, Docker
-- **Generative AI**: LangChain, LangGraph, VectorDB, GraphDB, CrewAI, MCP, LangSmith
-- **Data Manipulation and Preprocessing** : Data Wrangling, Feature Engineering, Data Integration, Data Cleaning Preprocessing, Web Scraping
-- **Framework, Cloud and MLOps** : Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, AWS (S3, EC2, Lambda, ECR, CodeDeploy, IAM), MLflow, Git, CI/CD Pipelines.
+- **Programming**: Python, SQL, PySpark
+- **Technology**: Artificial Intelligence, Machine learning, Data Science, Statistics, Deep learning, NLP, GenAI (Generative AI), LLM (Large Language models), Predictive Modeling, Exploratory Data Analysis (EDA), Forecasting, Feature Engineering, Data Cleaning, Preprocessing, Web Scraping, Power BI, Tableau, Docker, GitHub, CI/CD
+- **Agent Frameworks**: LangChain, LangGraph, LangSmith, VectorDB, MCP
+- **ML Frameworks**: Pandas, NumPy, Scikit-Learn, MLflow, Keras, PyTorch, Tensorflow, FastAPI 
+- **Data Tools**: Databricks, Snowflake, Azure Data Factory, Data Warehousing, Azure Cloud, ETL/ELT pipeline
 
 ---
 
 ## 📈 **Experience Highlights**
-### **AI/ML Engineer** | TATA CONSULTANCY SERVICES LTD |
+### **Software Engineer** | TATA CONSULTANCY SERVICES LTD |
 
 Client – Rabobank
 #### Key Project:
 1. **Rabobank One Bank One Flow**:  
-   - Developed an **end-to-end pipeline** using **Roberta NER transformers** and **Fasttext** for intent classification.  
-   - Achieved **90% accuracy** in customer name matching using **Levenshtein distance** and **RapidFuzz** NLP.  
-   - Created an RFM score model, helping Rabobank Bank generate **₹7 Cr revenue** in 2023.
+   - Retain money within the bank by giving offers to existing clients and onboarding new potential corporate customers.
+   - Developed an end-to-end pipeline using pre-trained **Roberta NER-based transformers** and Facebook's **FastText** for **intent classification** to identify customers’ industry by their names. 
+   - Utilized **Levenshtein distance** and **Rapid Fuzz** NLP algorithms for name matching to identify customers’ existence in the bank, achieved **90% accuracy**.
+   - Created an **RFM** score model to prioritize leads into hot, medium, or cold categories.
+   - This use case helped Rabo Bank to generate a revenue of 7Cr in 2025.
 
 2. **Rabobank Mortgage**:  
-   - Built a **Decision Tree** model for home loan propensity scoring with **LIME** and **SHAP** for explainability.  
-   - Applied **K-Means Clustering** to segment mortgage customers into **Elite, Loyal, and Ace** categories.  
+   - Predict which customers are most likely to apply for a home loan (propensity scoring) and segment mortgage customers to improve targeted marketing strategies. 
+   - Developed a **Decision Tree** algorithm to predict the likelihood of a customer applying for a home loan.
+   - Used **LIME** and **SHAP** for explainability.
+   - Applied **K-Means clustering** for mortgage customer **segmentation** into categories like Elite, Loyal, and Ace.
 
 3. **Rabobank Other Channel Movement Prevention**:  
-   - Conducted EDA using **Power BI** and implemented regression techniques with **TPOT**.  
-   - Predicted customers' **Monthly Average Balance** to assist RMs in reactivating debit card users.  
+   - Activate the debit cards of inactive customers who use them only for cash withdrawals, not for online transactions.   
+   - Conducted **EDA** using **Power BI** and implemented multiple **regression** and **regularization** techniques using the TPOT library.
+   - Predicted customer MAB (Monthly Average Balance) for the next two months to help RMs target inactive customers.  
 
 4. **TCS Banks Application Engineer**:  
-   - Monitored and managed critical batch and job runs ensuring smooth execution and minimal downtime.  
-   - Conducted quantitative analysis on capital market data using SQL and Python (Pandas/NumPy), generating actionable insights that optimized wealth management strategies. Automated reports building, reduced manual effort up to 90%.
-   - Developed a predictive model using neural network to estimate completion time of TCS BaNCS application batches and job runs, enabling proactive measures to avoid potential delays or failures in stock market settlements and high-value transactions.
-   - Engineered a hybrid recommendation system for financial products, leveraged explicit data and implicit data to enhance recommendation accuracy achieving an overall F1-score of 87%.
+   - **Engineered a hybrid recommendation engine** for financial products using Python and PySpark; integrated explicit and implicit data streams to achieve an **87% F1-score**, significantly improving cross-sell accuracy. 
+   - Developed a comprehensive Power BI suite for the Finance team, visualizing KPIs (Net Profit, Gross Margin, Sales) across regions; identified growth opportunities that contributed to a **15% YoY revenue increase** and **10% rise in net profit**. 
+   - Managed end-to-end Production Support (L1, L2, L3) for critical banking batches, ensuring **99.9%** uptime and seamless data integrity for high-stakes financial transactions.
+   - Led User Acceptance Testing (UAT) by designing and verifying complex test scenarios, ensuring 100% compliance with banking regulations before production deployment. 
+   - Adapt major changes in all batches and report during daylight saving time.
 ---
 
 ## 📂 **Projects**
-- [**Advanced RAG Chatbot with Hybrid Search**](https://github.com/rishavkumar1951): Chatbot uses local documents to answer prompt.
-- [**Enterprise Resume Optimization Platform**](https://github.com/rishavkumar1951): Automated job apply using RAG.
-- [**Crypto Signals with LSTM**](https://github.com/rishavkumar1951/Crypto_Signals_with_LSTM): Bitcoin price prediction using LSTM Neural Networks.  
+- [**Advanced RAG Chatbot with Hybrid Search**]: Enhanced Retrieval System: Implemented hybrid search combining dense vector embeddings with sparse lexical search, improving retrieval accuracy by 35% over baseline RAG.
+- [**Multi-Agent Research Assistant**]: Specialized Agent Architecture: Designed 4 autonomous agents (Researcher, Analyst, Writer, Reviewer) with distinct roles and collaboration protocols.
+- [**Real-time ETL Data Pipeline**]: Built a serverless ETL pipeline using AWS Lambda and S3 for scalable data processing.
 - [**University Shortlisting System**](https://github.com/rishavkumar1951/University_Shortlisting_and_Prediction_System): Admission likelihood prediction using Linear Regression.  
-- [**SMC Trading bot with Gemini**](https://github.com/rishavkumar1951/Gemini-SMC-Trading-Bot): Buy/Sell signals, entry, stop loss, and a detailed rationale.  
+- [**SMC Trading bot with Gemini**](https://github.com/rishavkumar1951/Gemini-SMC-Trading-Bot): Buy/Sell signals, entry, stop loss, and a detailed rationale.
+- [**Crypto Signals with LSTM**](https://github.com/rishavkumar1951/Crypto_Signals_with_LSTM): Engineered a sequential deep learning model (LSTM) to forecast BTC/USD price movements with high precision.
 
 ---
 
@@ -68,7 +73,7 @@ Client – Rabobank
 - Agentic AI Bootcamp (LangGraph, Langchain)
 - Building Gen AI App 12+ Hands-on Projects with Gemini Pro
 - Complete Generative AI Course with Langchain and Huggingface  
-- Data Science Masters Certification Program
+- Data Science Master's Certification Program
 - The Complete Python Bootcamp from Zero to Hero in Python
 - Mastering Data Structures and Algorithms
 
@@ -81,14 +86,13 @@ Client – Rabobank
 ---
 
 ## 💼 **Achievements**
-- 🏅 **Secured All India Rank 48 in TCS CodeVita Season 10 and received FTE offer from TCS Digital.** (TCS).
+- 🏅 **Secured All India Rank 48 in TCS CodeVita Season 10 and received an FTE offer from TCS Digital.** (TCS).
 - 🏅 **Runner-up in the TCS AI Innovation Hackathon 2023, recognized for developing an innovative AI-based solution.** (TCS).
 - 🏅 **Honored twice as Employee of the Quarter for exceptional performance and contribution.** (TCS).
 
 ---
 
 ## 📫 **Connect with Me**
-- 📧 Email: [rishav.dgi@gmail.com](mailto:rishav.dgi@gmail.com)  
 - 💼 LinkedIn: [Rishav Kumar](https://www.linkedin.com/in/rishav321/)  
 - 🐙 GitHub: [rishavkumar1951](https://github.com/rishavkumar1951)
 
